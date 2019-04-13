@@ -1,0 +1,5 @@
+name: notify2discord
+version: 0.0.1
+author: proelbtn
+main: com.proelbtn.Main
+api-version: 1.13

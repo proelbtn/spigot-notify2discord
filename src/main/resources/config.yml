@@ -1,0 +1,2 @@
+uri: http://discordapp.com/api/webhooks/{webhook.id}/{webhook.token}
+name: notify2discord
